@@ -1,3 +1,3 @@
 # Dicee-Challenge
 
-![alt text](images/dice.png)
+![alt text](images/dice.PNG)
